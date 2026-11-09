@@ -1,5 +1,7 @@
 # Hi, I'm Shaahid 👋
 
+📄 **[Download my resume (PDF)](resume/Shaahid_Ahammad_Shaik_Resume.pdf)**
+
 ## About Me
 
 I am a Principal Software Engineer with over 16 years of experience building, validating, and operating large-scale cloud-native security platforms. My professional background spans cloud computing, distributed systems, network security, automation engineering, and software quality at enterprise scale.
