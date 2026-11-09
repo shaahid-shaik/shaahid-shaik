@@ -1,6 +1,19 @@
 # Hi, I'm Shaahid 👋
 
-📄 **[Download my resume (PDF)](resume/Shaahid_Ahammad_Shaik_Resume.pdf)**
+**Principal Software Engineer · Cloud-native security & distributed systems · M.S. CS & AI candidate at Boston University**
+
+Moving from large-scale cloud security platforms toward AI infrastructure and platform engineering.
+
+### Start here
+
+| | |
+|---|---|
+| 🗂️ [Portfolio](https://github.com/shaahid-shaik/portfolio) | Overview and navigation |
+| 📄 [Resume (web)](https://github.com/shaahid-shaik/portfolio/blob/main/docs/resume.md) · [PDF](resume/Shaahid_Ahammad_Shaik_Resume.pdf) | Education, experience, skills |
+| 🛠️ [Projects](https://github.com/shaahid-shaik/portfolio/tree/main/projects) | What I'm building |
+| 🔍 [Reflection & roadmap](https://github.com/shaahid-shaik/portfolio/blob/main/docs/reflection.md) | How the portfolio evolved and where it's going |
+
+---
 
 ## About Me
 
